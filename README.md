@@ -1,6 +1,11 @@
 # A Wordle Clone In Python! 🐍
 
 ## Installation
+Clone this GitHub repository where you please:
+```bash
+git clone https://github.com/bschultz1990/wyrdl
+```
+
 Open a terminal to install prerequisites:
 ```bash
 pip install rich

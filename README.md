@@ -3,11 +3,11 @@
 
 ## Rules
 - Try to correctly guess a five-letter word from Alice's Adventures Underground
-- Green: Correct letters in the right place
-- Yellow: Correct letters in the wrong place
-- Gray: Incorrect letters
+- 🟢 Green: Correct letters in the right place
+- 🟡 Yellow: Correct letters in the wrong place
+- ⚫ Gray: Incorrect letters
 
-Quit at any time by `Ctrl-c`
+Quit at any time by pressing `Ctrl-c`
 
 ## Installation
 Clone this GitHub repository where you please:

@@ -36,7 +36,7 @@ def main():
 
 def refresh_page(headline):
     console.clear()
-    console.rule(f"[bold blue]:leafy_green: {headline} :leafy_green:[/]\n")
+    console.rule(f"[bold blue]:snake: {headline} :snake:[/]\n")
 
 
 def get_random_word(word_list):
